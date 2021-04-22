@@ -1,0 +1,6 @@
+python
+matplotlib
+cv2
+PIL
+bitarray
+PyQt5
